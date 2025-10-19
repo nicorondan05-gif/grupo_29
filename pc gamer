@@ -1,0 +1,109 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>PC GAMER - VALORANT</title>
+  <style>
+    body{font-family:Arial,Helvetica,sans-serif;line-height:1.5;color:#111;margin:0;padding:20px;max-width:1000px;margin:auto}
+    h1,h2,h3,h4{color:#0b4a6f;margin-top:24px}
+    p{margin-bottom:12px}
+    .specs{background:#f7fbfd;border:1px solid #e6f0f4;padding:16px;border-radius:8px;margin-bottom:20px}
+    .specs dt{font-weight:bold}
+    .specs dd{margin:0 0 8px 0}
+    .price{font-size:20px;font-weight:bold;color:#0b6f3a;margin-top:10px}
+    .center{text-align:center}
+    img{display:block;margin:20px auto;max-width:100%;height:auto;border:1px solid #ccc;border-radius:10px}
+    figcaption{text-align:center;font-size:13px;color:#555;margin-top:5px}
+    table{border-collapse:collapse;width:100%;margin:16px 0}
+    th,td{border:1px solid #ccc;padding:8px;text-align:left}
+    th{background:#f0f6f9}
+    blockquote{border-left:4px solid #ddd;padding-left:12px;color:#333;background:#fafafa;margin:12px 0}
+    ul,ol{margin-left:20px}
+    footer{margin-top:30px;border-top:1px solid #eee;padding-top:10px;font-size:13px;color:#666;text-align:center}
+  </style>
+</head>
+<body>
+  <h1>PC GAMER</h1>
+  <h2>Componentes de computador “Digitek am4-ryzen 5”</h2>
+  <section class="specs">
+    <dl>
+      <dt>Gabinete:</dt><dd>Gamunas Fortress TG - 3 vent</dd>
+      <dt>Fuente:</dt><dd>GameMax VP_600 - 80Plus Bronce - 600W - Fan 12cm - RGB</dd>
+      <dt>Placa madre:</dt><dd>Gabinete A520m-k v2-S (AM4 - 2 DDR4 - HDMI/VGA - M.2 - RAID)</dd>
+      <dt>Procesador:</dt><dd>AMD Ryzen 5 5600G (3.6GHz, 6 núcleos - 19MB - 65W - socket AM4 - cooler incluido)</dd>
+      <dt>Unidad de almacenamiento:</dt><dd>960GB SATA III Hiksemi Wave 2.5"</dd>
+      <dt>Memoria RAM:</dt><dd>32GB - 3200MHz (2x16GB) Hiksemi Back</dd>
+      <dt>Video (PCI-E):</dt><dd>RTX 3050 6GB Gigabyte Windforce OC V2</dd>
+      <dt>Puerto USB:</dt><dd>Frontales y traseros (on board)</dd>
+      <dt>Sonido:</dt><dd>Audio codec (on board)</dd>
+      <dt>Placa de red:</dt><dd>Gigabit 10/100/1000 RJ45 (on board)</dd>
+      <dt>Periféricos:</dt><dd>Teclado performance/CX español y mouse USB</dd>
+      <dt>Monitor:</dt><dd>ViewSonic LED VA240-H VGA/HDMI 1920x1080 (24")</dd>
+      <dt>Calidad y resolución:</dt><dd>1080p / 1440p</dd>
+    </dl>
+  </section>
+  <p class="price">Precio total: $1.575.000,00</p>
+  <p>Fuente: SYS computación</p>
+  <h2>Comparación de PC</h2>
+  <p><strong>Ryzen5 5500 + GTX 1660 Super:</strong> sin Ray Tracing/DLSS, menos headroom, orientada a 1080p.</p>
+  <p>La mejor opción para el juego Valorant es el PC con <strong>RTX 3050</strong> por ofrecer mejores resoluciones y mayor compatibilidad a futuro.</p>
+  <h3>Fotos y capturas</h3>
+  <p class="center">A continuación se colocan las imágenes del presupuesto real, interacción con la IA y comparaciones.</p>
+
+  <figure><img src="imagen1.jpg" alt="Imagen 1"><figcaption>Presupuesto real</figcaption></figure>
+  <figure><img src="imagen2.jpg" alt="Imagen 2"><figcaption>Interacción con ChatGPT</figcaption></figure>
+  <figure><img src="imagen3.jpg" alt="Imagen 3"><figcaption>Comparación RTX3050 vs GTX1660</figcaption></figure>
+  <figure><img src="imagen4.jpg" alt="Imagen 4"><figcaption>Comparación externa (Google)</figcaption></figure>
+  <figure><img src="imagen5.jpg" alt="Imagen 5"><figcaption>Imagen generada por ChatGPT</figcaption></figure>
+
+  <h2>¿Está de acuerdo con esta información? ¿Por qué?</h2>
+  <p>Estoy de acuerdo con estos datos que me dio ChatGPT porque son datos parecidos que me dieron en el presupuesto, y también con la información que he recopilado en Google y otras fuentes.</p>
+
+  <h2>Resumen técnico explicado con IA</h2>
+  <h3>¿Qué es el bitrate en streaming?</h3>
+  <p>El bitrate (tasa de bits) en streaming es la cantidad de datos que se transmiten por segundo durante una transmisión de video o audio. Se mide generalmente en Kbps o Mbps.</p>
+  <blockquote><strong>En palabras simples:</strong> El bitrate determina la calidad y fluidez del streaming: más bitrate → mejor calidad pero requiere más ancho de banda; menos bitrate → menor calidad pero requiere menos ancho de banda.</blockquote>
+  <h4>Ejemplo para video</h4>
+  <table>
+    <tr><th>Resolución</th><th>Bitrate recomendado</th><th>Calidad visual</th></tr>
+    <tr><td>720p (HD) a 30 fps</td><td>2.500 – 4.000 Kbps</td><td>Buena</td></tr>
+    <tr><td>1080p (Full HD) a 60 fps</td><td>4.500 – 6.000 Kbps</td><td>Muy buena</td></tr>
+    <tr><td>4K (UHD)</td><td>13.000 – 20.000 Kbps</td><td>Excelente</td></tr>
+  </table>
+  <h4>En audio</h4>
+  <ul>
+    <li>128 kbps → calidad básica (radio)</li>
+    <li>192 kbps → calidad estándar</li>
+    <li>320 kbps → calidad alta</li>
+  </ul>
+  <h3>¿Qué es la latencia?</h3>
+  <p>La latencia es el tiempo que tarda una señal o dato en ir desde tu dispositivo hasta el servidor (y volver). Se mide en milisegundos (ms).</p>
+  <blockquote>Ejemplo: si el streamer dice "hola" y lo escuchás 3 segundos después, esa demora es latencia.</blockquote>
+  <table>
+    <tr><th>Tipo</th><th>Descripción</th><th>Ejemplo</th></tr>
+    <tr><td>De red (ping)</td><td>Retraso entre tu PC y el servidor</td><td>Importante en juegos online</td></tr>
+    <tr><td>De transmisión</td><td>Retraso entre el emisor y el espectador</td><td>Importante en transmisiones en vivo</td></tr>
+    <tr><td>De procesamiento</td><td>Tiempo que tardan los dispositivos en codificar/decodificar</td><td>Cámaras o programas de streaming</td></tr>
+  </table>
+  <h3>¿Qué función cumple la GPU en una PC gamer?</h3>
+  <p>La GPU es el componente encargado de procesar y generar las imágenes, animaciones y videos que ves en pantalla. En una PC gamer, es fundamental porque maneja la carga visual del juego.</p>
+  <ol>
+    <li>Procesar gráficos y texturas</li>
+    <li>Renderizar imágenes en tiempo real</li>
+    <li>Aumentar los FPS</li>
+    <li>Aceleración por hardware</li>
+    <li>Soporte para tecnologías visuales modernas</li>
+  </ol>
+
+  <h2>Conclusiones finales</h2>
+  <h3>¿Cómo te ayudó la IA en este trabajo?</h3>
+  <p>La IA fue de mucha ayuda tanto para buscar información como para generar imágenes.</p>
+  <h3>¿Detectaste errores o información poco fiable? ¿Cómo lo resolviste?</h3>
+  <p>Se detectaron mínimos errores al pedir explicaciones a partir de imágenes; corrigiendo la consulta la IA ajustó la respuesta. La información fue corroborada con otras fuentes.</p>
+  <h3>¿En qué casos preferís buscar información manualmente?</h3>
+  <p>Cuando no hay internet o se necesita consultar libros u otras fuentes físicas.</p>
+
+  <footer>Documento convertido y formateado para una sola página con imágenes en orden.</footer>
+</body>
+</html>
